@@ -1,4 +1,7 @@
+numpy 
 seaborn
+sklearn
+matplotlib
 theano
 lasagne
-librosa
+pandas
