@@ -3,7 +3,7 @@ from ipython/notebook:latest
 COPY . /notebooks/contest1
 
 RUN apt-get update && \
-    apt-get install -y libav-tools python-tk
+    apt-get install -y libav-tools python3-tk
 
 RUN pip install --upgrade pip
 COPY requirements.txt /requirements/requirements.txt
