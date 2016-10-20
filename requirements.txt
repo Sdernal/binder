@@ -1,4 +1,3 @@
-unzip
 numpy 
 seaborn
 sklearn
