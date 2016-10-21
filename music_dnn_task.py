@@ -1,13 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
-
-import warnings
-warnings.simplefilter("ignore")
-
 import os
 import sys 
 import wave
