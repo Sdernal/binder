@@ -2,7 +2,6 @@ import os
 import sys 
 import wave
 import time
-import librosa
 import numpy as np
 import pandas as pd
 import seaborn as sns
