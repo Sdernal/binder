@@ -4,8 +4,7 @@ import wave
 import time
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+
 from StringIO import StringIO
 
 BP = "/home/ubuntu/ml-mipt-part2/2016/contest/01_music/task_descr/musicdata"
